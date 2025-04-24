@@ -7,7 +7,7 @@ Estoy comenzando a desarrollar proyectos personales fuera del ámbito académico
 
 ## Tecnologías
 
-- **Lenguajes:** C, Java  
+- **Lenguajes:** C, Java, Javascript
 - **Áreas de interés:** Desarrollo fullstack, estructuras de datos, diseño de software
 
 ## Proyectos
@@ -16,7 +16,7 @@ Estoy comenzando a desarrollar proyectos personales fuera del ámbito académico
 Aplicación colaborativa para mejorar la experiencia en restaurantes mediante la gestión digital de filas y tiempos de espera. Proyecto personal desarrollado en equipo.
 
 ### 🎓 Regusto
-Página web y aplicación móvil orientadas al delivery de alimentos cercanos a su fecha de vencimiento, con el objetivo de reducir el desperdicio de comida. Inspirado en el modelo de Too Good To Go, adaptado al contexto argentino.
+Página web y aplicación móvil orientadas al delivery de alimentos cercanos a su fecha de vencimiento, con el objetivo de reducir el desperdicio de comida. Inspirado en el modelo de Too Good To Go, adaptado al contexto argentino. Proyecto Universitario.
 
 ### 🎓 Zelo
 Aplicación bancaria prototipo desarrollada en el marco de la materia Human-Computer Interaction. Enfocada en una interfaz intuitiva y accesible.
